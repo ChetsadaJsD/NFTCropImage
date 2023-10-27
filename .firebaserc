@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "redisbull-ar-compiler",
+    "y": "redisbull-ar-compiler"
+  },
+  "targets": {},
+  "etags": {}
+}
